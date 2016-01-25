@@ -1,2 +1,2 @@
 # s1cyan.github.io
-my personal website
+My personal website
