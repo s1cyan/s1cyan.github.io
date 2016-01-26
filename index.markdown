@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Hi!I don't know what this does!](https://avatars0.githubusercontent.com/u/14955890?v=3&s=460)
+![Hi!I don't know what this does!?](https://avatars0.githubusercontent.com/u/14955890?v=3&s=460)
 
 # About Me
 ---
