@@ -1,2 +1,2 @@
 # s1cyan.github.io
-My personal website
+My personal website using Pithy Jekyll Theme

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Hi!I don't know what this does!?](https://avatars0.githubusercontent.com/u/14955890?v=3&s=460)
+![Hi!](https://avatars0.githubusercontent.com/u/14955890?v=3&s=460)
 
 # About Me
 ---
@@ -12,7 +12,6 @@ I am a second year Macaulay Honors student studying computer science at
 the City College of New York. I'm relatively new to coding but I find
 that I am gradually getting the hang of things. I enjoy trying different
 and hopefully easier alternative solutions to problems when I code. When I'm not
-working on projects I enjoy playing FPS games, reading fantasy novels
-and listening to music. 
+working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
 
 
