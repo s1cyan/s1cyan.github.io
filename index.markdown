@@ -13,5 +13,3 @@ the City College of New York. Being relatively new to coding, I find
 that I am gradually getting the hang of things. I enjoy trying different,
 and hopefully easier, alternative solutions to problems when I code. When I'm not
 working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
-
-
