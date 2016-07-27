@@ -9,6 +9,6 @@ layout: default
 
 
 I am a second year Macaulay Honors student studying computer science at
-the City College of New York. This summer I will be interning at Cornell Tech under Assistant Professor, Yoav Artzi. I enjoy trying different,
+the City College of New York. This summer I will be interning at Cornell Tech under Profess Yoav Artzi, developing interactive 3D environments for situated natural language understanding. I enjoy trying different,
 and hopefully easier, alternative solutions to problems when I code. When I'm not
 working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
