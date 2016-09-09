@@ -8,10 +8,13 @@ layout: default
 ---
 
 
-I am a second year Macaulay Honors student studying computer science at
-the City College of New York. This summer I will be interning at Cornell Tech under Professor Yoav Artzi, developing interactive 3D environments for situated natural language understanding. I enjoy trying different,
+I am a third year Macaulay Honors student studying computer science at
+the City College of New York. I am currently an intern at Cornell Tech under Professor Yoav Artzi, developing interactive 3D environments for situated natural language understanding. I enjoy trying different,
 and hopefully easier, alternative solutions to problems when I code. When I'm not
 working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
 
-Apparently, I like to code. ¯\ _(ツ)_/¯
 
+<a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">See the interactive simulation environments that I made here</a>
+
+
+Apparently, I like to code. ¯\ _(ツ)_/¯
