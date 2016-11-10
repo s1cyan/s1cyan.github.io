@@ -17,4 +17,3 @@ working on projects I enjoy playing FPS games, watching eSports and reading fant
 <a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">See the interactive simulation environments that I made here</a>
 
 
-Apparently, I like to code. ¯\ _(ツ)_/¯
