@@ -17,4 +17,6 @@ and hopefully easier, alternative solutions to problems when I code. When I'm no
 working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
 
 
-<a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">See the interactive simulation environments that I made here</a>
+<a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">Try the interactive simulation environments that I made for the NLP group at Cornell Tech</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EpGS5606rn8" frameborder="0" allowfullscreen></iframe>
