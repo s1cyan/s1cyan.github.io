@@ -11,10 +11,7 @@ layout: default
 ---
 
 
-I am a third year Macaulay Honors student studying computer science at
-the City College of New York. I am currently a Software Development intern at Cornell Tech under Professor Yoav Artzi, developing interactive 3D environments for situated natural language understanding. I enjoy trying different,
-and hopefully easier, alternative solutions to problems when I code. When I'm not
-working on projects I enjoy playing FPS games, watching eSports and reading fantasy novels.
+I am a Computer Science major in my senior year with proficiency in C#, C++, Python and Perl. Previously I have worked with Cornell Tech's NLP group, under Professor Yoav Artzi, on interactive simulated house environments for natural language learning research using Unity5. My personal website: http://s1cyan.github.io/ , has more details on what I have worked on as well as what I am currently working on. Each project will have a link to their corresponding repositories. 
 
 
 <!--<a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">Try the interactive simulation environments that I made for the NLP group at Cornell Tech</a>-->
