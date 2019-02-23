@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-  <img src="https://media.licdn.com/media/AAEAAQAAAAAAAAfuAAAAJGZlMTI4ZGUxLTRlNjEtNGI0ZC1iNTJlLWExYjk3ZDIxMzM5MQ.jpg" width="30%" height="30%" >
+  <img src="https://avatars2.githubusercontent.com/u/14955890?s=400&u=b2dded4deda40d784960e88b87a3e3d49984fd59&v=4" width="30%" height="30%" >
 
 
 
