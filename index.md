@@ -3,8 +3,7 @@ layout: default
 ---
 
 
- ![cyan!](https://avatars2.githubusercontent.com/u/14955890?s=400&u=b2dded4deda40d784960e88b87a3e3d49984fd59&v=4 ){:height="36px" width="36px"}
-
+ ![cyan!](https://avatars2.githubusercontent.com/u/14955890?s=400&u=b2dded4deda40d784960e88b87a3e3d49984fd59&v=4 ) <!-- .element height="50%" width="50%" -->
 
 
 # About Me
