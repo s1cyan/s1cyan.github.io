@@ -11,7 +11,7 @@ layout: default
 ---
 
 
-I am a Computer Science major in my senior year with proficiency in C#, C++, Python and Perl. Previously I have worked with Cornell Tech's NLP group, under Professor Yoav Artzi, on interactive simulated house environments for natural language learning research using Unity5. The projects sections of this website will have more detail about what I have worked on as well as links to their repos. 
+Software Dev in hybrid cloud at IBM. I do networking and things! Previously I have worked with Cornell Tech's NLP group, under Professor Yoav Artzi, on interactive simulated house environments for natural language learning research using Unity5. The projects sections of this website will have more detail about what I have worked on as well as links to their repos. 
 
 
 <!--<a href="http://ec2-52-91-17-127.compute-1.amazonaws.com" target="_blank">Try the interactive simulation environments that I made for the NLP group at Cornell Tech</a>-->
