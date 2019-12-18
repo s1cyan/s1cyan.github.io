@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Sending XML in a REST call with Ansible  
 
  
@@ -5,12 +10,8 @@
 This is a short blog post that will hopefully give you a quick answer to how to send an XML body in a REST call with Ansible’s uri module.  
 
  
-
- 
-
 Ansible is a pretty modern automation engine, and as a result it expects to be handling modern content. The `uri` module in Ansible has `json`, `form-urlencoded` and `raw` as options for body format. Ansible will automatically set the Content-Type header/encode the body argument only for json and form-urlencoded, anything else you have to set yourself. 
 
- 
 
 **The two things you need**: 
 
