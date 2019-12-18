@@ -4,7 +4,7 @@ layout: default
 
 
 # Sending XML in a REST call with Ansible  
-
+Dec 18, 2019
  
 
 This is a short blog post that will hopefully give you a quick answer to how to send an XML body in a REST call with Ansible’s uri module.  
@@ -23,17 +23,11 @@ Result:
 
 ```
  - name: REST call w XML body 
-
     uri: 
-
       url:  
-
       method: PUT  
-
       headers: 
-
         Content-Type: "application/xml" 
-
       body: "{{lookup('template','xml_body.xml')}}" 
 ```
 
