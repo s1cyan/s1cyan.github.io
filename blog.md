@@ -21,6 +21,7 @@ In body, add your content to an xml file ( I called mine `xml_body.xml` for this
 
 Result: 
 
+{% raw %}
 ```
  - name: REST call w XML body 
     uri: 
@@ -30,6 +31,7 @@ Result:
         Content-Type: "application/xml" 
       body: "{{lookup('template','xml_body.xml')}}" 
 ```
+{% endraw %}
 
 With most REST calls, you probably have some extra authentication, status code checks and etc. so add those as you need.  
 
